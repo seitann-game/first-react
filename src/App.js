@@ -19,7 +19,7 @@ function App() {
 
   return (
     <div>
-      <h1>TODO アプリ</h1>
+      <h1>TODO アプリ!</h1>
       <h4>hhh</h4>
       <div>
         <input
